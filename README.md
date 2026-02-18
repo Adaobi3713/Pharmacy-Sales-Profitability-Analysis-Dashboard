@@ -82,8 +82,12 @@ The focus of this project goes beyond visualization — it emphasizes clarity, u
 
 ### 📎 How to Use
 
-Open the .pbix file in Power BI Desktop here is the link: 
-https://app.powerbi.com/view?r=eyJrIjoiMDM1NDM4MjYtMTI3My00MTRiLWFmOTgtZjc2OTkxM2MzODdhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9
+View the live interactive dashboard here: (https://app.powerbi.com/view?r=eyJrIjoiMDM1NDM4MjYtMTI3My00MTRiLWFmOTgtZjc2OTkxM2MzODdhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
+Or:
+
+Download the .pbix file from this repository and open it in Power BI Desktop.: 
+![pharmacy Dashboard](https://github.com/user-attachments/assets/eef700e6-553e-4e3c-b606-2984f6ad3818)
 
 Use slicers to filter by country, category, brand, year, or promotion status
 
